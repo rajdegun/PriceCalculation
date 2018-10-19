@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionTech.PriceCalculation", "DecisionTech.PriceCalculation\DecisionTech.PriceCalculation.csproj", "{588C942F-C72C-4D29-9129-3C8EE11637B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionTech.PriceCalculation.Tests", "DecisionTech.PriceCalculation.Tests\DecisionTech.PriceCalculation.Tests.csproj", "{AC098138-CE9F-4511-B0BB-BB128CB02028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588C942F-C72C-4D29-9129-3C8EE11637B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588C942F-C72C-4D29-9129-3C8EE11637B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588C942F-C72C-4D29-9129-3C8EE11637B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588C942F-C72C-4D29-9129-3C8EE11637B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC098138-CE9F-4511-B0BB-BB128CB02028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC098138-CE9F-4511-B0BB-BB128CB02028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC098138-CE9F-4511-B0BB-BB128CB02028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC098138-CE9F-4511-B0BB-BB128CB02028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D044228A-CCE1-444A-9313-D470236ECADC}
+	EndGlobalSection
+EndGlobal
